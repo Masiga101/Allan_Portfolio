@@ -688,18 +688,18 @@ section {
   color: #149ddd;
 }
 
-.services .title {
+.services .service-title {
   margin-left: 80px;
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
 }
 
-.services .title a {
+.services .service-title a {
   color: #343a40;
 }
 
-.services .title a:hover {
+.services .service-title a:hover {
   color: #149ddd;
 }
 
